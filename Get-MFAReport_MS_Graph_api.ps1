@@ -5,7 +5,7 @@
 
 .NOTES
   Name: Get-MFAStatus-Final
-  Updated by: Gemini AI
+  Updated by: Abdullah-Al-Zubayer Dipu
 #>
 
 [CmdletBinding(DefaultParameterSetName="Default")]
